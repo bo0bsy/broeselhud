@@ -375,20 +375,9 @@
 			"labelText"		"#ControlPointIconCappers"
 			"textAlignment"	"center"
 
-			"if_multiple_trains"
-			{
-				"xpos_minmode"		"18"
-			}
+			"if_multiple_trains_top"	{	"xpos"	"19"	"ypos"	"45"	}
 
-			"if_multiple_trains_top"
-			{
-				"ypos"		"45"
-			}
-
-			"if_multiple_trains_bottom"
-			{
-				"ypos"		"82"
-			}
+			"if_multiple_trains_bottom"	{	"xpos"	"19"	"ypos"	"82"	}
 		}
 
 		"Blocked"
