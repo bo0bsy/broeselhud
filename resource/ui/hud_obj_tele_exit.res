@@ -19,19 +19,19 @@
 		{
 			"xpos"	"9"	"ypos"	"0"
 			"proportionaltoparent"	"1"
-			"iconColor"	"Negative"
+			"iconColor"	"255 0 0 255"
 		}
 		"Icon_Upgrade_2"
 		{
 			"xpos"	"9"	"ypos"	"0"
 			"proportionaltoparent"	"1"
-			"iconColor"	"CustomYellow"
+			"iconColor"	"255 255 0 255"
 		}
 		"Icon_Upgrade_3"
 		{
 			"xpos"	"9"	"ypos"	"0"
 			"proportionaltoparent"	"1"
-			"iconColor"	"Positive"
+			"iconColor"	"0 255 0 255"
 		}
 		"SapperIcon"
 		{

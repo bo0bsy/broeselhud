@@ -7,6 +7,8 @@ Scheme
 		"buffed HP"				"255 255 255 255"
 		"buff shadow"			"0 0 0 255"
 		
+		"Main"					"50 225 50 255"
+		
 		"Damage Numbers"		"255 255 255 255"
 		"Heal Numbers"			"50 205 50 255"
 		"Last Damage done"		"255 255 255 255"

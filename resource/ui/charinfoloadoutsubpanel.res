@@ -52,7 +52,7 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"paintbackground"							"0"
 		"defaultFgColor_override" 					"TanLight"
-		"armedFgColor_override" 					"0 0 0 255"
+		"armedFgColor_override" 					"Main"
 
 		"pin_to_sibling"							"SoldierCustom"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
@@ -87,7 +87,7 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"paintbackground"							"0"
 		"defaultFgColor_override" 					"TanLight"
-		"armedFgColor_override" 					"0 0 0 255"
+		"armedFgColor_override" 					"Main"
 
 		"pin_to_sibling"							"PyroCustom"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
@@ -122,7 +122,7 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"paintbackground"							"0"
 		"defaultFgColor_override" 					"TanLight"
-		"armedFgColor_override" 					"0 0 0 255"
+		"armedFgColor_override" 					"Main"
 
 		"pin_to_sibling"							"DemomanCustom"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
@@ -157,7 +157,7 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"paintbackground"							"0"
 		"defaultFgColor_override" 					"TanLight"
-		"armedFgColor_override" 					"0 0 0 255"
+		"armedFgColor_override" 					"Main"
 
 		"pin_to_sibling"							"HeavyCustom"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
@@ -192,7 +192,7 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"paintbackground"							"0"
 		"defaultFgColor_override" 					"TanLight"
-		"armedFgColor_override" 					"0 0 0 255"
+		"armedFgColor_override" 					"Main"
 	}
 	"HeavySelectNumber"
 	{
@@ -223,7 +223,7 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"paintbackground"							"0"
 		"defaultFgColor_override" 					"TanLight"
-		"armedFgColor_override" 					"0 0 0 255"
+		"armedFgColor_override" 					"Main"
 
 		"pin_to_sibling"							"HeavyCustom"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -258,7 +258,7 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"paintbackground"							"0"
 		"defaultFgColor_override" 					"TanLight"
-		"armedFgColor_override" 					"0 0 0 255"
+		"armedFgColor_override" 					"Main"
 
 		"pin_to_sibling"							"EngineerCustom"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -293,7 +293,7 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"paintbackground"							"0"
 		"defaultFgColor_override" 					"TanLight"
-		"armedFgColor_override" 					"0 0 0 255"
+		"armedFgColor_override" 					"Main"
 
 		"pin_to_sibling"							"MedicCustom"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -328,7 +328,7 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"paintbackground"							"0"
 		"defaultFgColor_override" 					"TanLight"
-		"armedFgColor_override" 					"0 0 0 255"
+		"armedFgColor_override" 					"Main"
 
 		"pin_to_sibling"							"SniperCustom"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -363,7 +363,7 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"paintbackground"							"0"
 		"defaultFgColor_override" 					"TanLight"
-		"armedFgColor_override" 					"0 0 0 255"
+		"armedFgColor_override" 					"Main"
 
 		"pin_to_sibling"							"ScoutCustom"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
