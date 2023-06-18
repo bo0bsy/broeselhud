@@ -1,9 +1,6 @@
 "UnlitGeneric"
 {
-	"$translucent" "1"
-	"$baseTexture" "vgui/replay/thumbnails/blank"
-	"$vertexcolor" "1"
-	"$no_fullbright" "1"
+	"$baseTexture" ""
+	"$alpha" "0"
 	"$ignorez" "1"
-	"%keywords" "tf"
 }

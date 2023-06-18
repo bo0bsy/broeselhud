@@ -1,3 +1,4 @@
+#base "hudlayout_removed.res"
 #base "base/hudlayout.res"
 
 "Resource/HudLayout.res"

@@ -1,5 +1,8 @@
 "Resource/UI/ObjectiveStatusEscort.res"
 {
+	"EscortHilightSwoop"
+	{	"ControlName" "CControlPointIconSwoop"	"fieldName" "EscortHilightSwoop"	"xpos" "9999"	"alpha" "0"	}
+
 	"ObjectiveStatusEscort"
 	{
 		"ControlName"		"EditablePanel"
