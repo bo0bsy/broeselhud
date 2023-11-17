@@ -150,7 +150,7 @@
 		"fieldName"					"DisguiseStatus"
 		"visible"					"1"
 		"enabled"					"1"
-		"xpos"						"80"
+		"xpos"						"10"
 		"ypos"						"c210"
 		"wide"						"150"
 		"tall"						"50"
@@ -167,7 +167,6 @@
 		"tall"						"24"
 		"tall_minmode"				"24"
 		"priority"					"40"
-		"priority_lodef"			"40"
 	}
 	
 	CSpectatorTargetID
@@ -266,7 +265,7 @@
 		"IconColor"					"235 235 219 255"
 		"LocalPlayerColor"			"HUDBlack"
 
-		"BaseBackgroundColor"		"235 235 219 100"
+		"BaseBackgroundColor"		"235 235 219 55"
 		"LocalBackgroundColor"		"235 235 219 220"
 	}
 	
@@ -384,8 +383,6 @@
 		"enabled"					"1"
 		"xpos"						"c-189"
 		"ypos"						"c-92"
-		"ypos_hidef"				"c-92"
-		"ypos_lodef"				"c-92"
 		"zpos"						"10000"
 		"wide"						"378"
 		"tall"						"200"

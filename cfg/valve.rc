@@ -1,5 +1,4 @@
 r_decal_cullsize 1
-exec joystick.cfg
 exec autoexec.cfg
 exec mastercomfig_modules.cfg
 exec ent_remove_all_entities.cfg
@@ -14,3 +13,5 @@ tf_contract_competitive_show 0
 tf_scoreboard_alt_class_icons 0
 cl_show_market_data_on_items 2
 tf_scoreboard_ping_as_text 1
+hud_deathnotice_time 10
+hud_reloadscheme 

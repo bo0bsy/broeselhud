@@ -1,32 +1,5 @@
 "Resource/UI/DisguiseStatusPanel.res"
 {
-	"itemmodelpanel"
-	{
-		"ControlName"				"CEmbeddedItemModelPanel"
-		"fieldName"					"itemmodelpanel"
-		"xpos"						"0"
-		"ypos"						"0"
-		"zpos"						"1"		
-		"wide"						"100"
-		"tall"						"100"
-		"autoResize"				"0"
-		"pinCorner"					"0"
-		"visible"					"1"
-		"enabled"					"1"
-		"useparentbg"				"1"
-
-		"fov"						"54"
-		"start_framed"				"1"
-		"disable_manipulation"		"1"
-
-		"model"
-		{
-			"angles_x"				"10"
-			"angles_y"				"130"
-			"angles_z"				"0"
-		}
-	}
-	
 	"DisguiseStatusBG"
 	{
 		"ControlName"				"CTFImagePanel"
@@ -50,6 +23,8 @@
 		"src_corner_width"			"23"
 		"draw_corner_width"			"3"
 		"draw_corner_height"		"3"
+		
+		"alpha"	"130"
 	}
 	
 	"DisguiseNameLabel"
